@@ -1,0 +1,3 @@
+CREATE TABLE `studenti`. ( `id` INT(12) NOT NULL AUTO_INCREMENT , `ime` VARCHAR(20) NOT NULL , `prezime` VARCHAR(20) NOT NULL , `email_adresa` VARCHAR(30) NOT NULL , `smjer` VARCHAR(30) NOT NULL , `godina_studija` INT(5) NOT NULL , `motiv` VARCHAR(100) NOT NULL , `predznanje` VARCHAR(100) NOT NULL , `PhP` INT(20) NOT NULL , `MySql` INT(20) NOT NULL ) ENGINE = InnoDB;
+username student
+pass phpakademija
